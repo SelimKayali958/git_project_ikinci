@@ -6,6 +6,7 @@ public class Deneme {
 
 		System.out.println("ikinci projem 1");
 		System.out.println("ikinci projem 2");
+		System.out.println("ikinci projem 3");
 	}
 
 }
